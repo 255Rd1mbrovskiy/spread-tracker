@@ -13,6 +13,7 @@ CLI-утиліта для трекінгу **спреду** та **дисбал�
 
 ## Використання
 
+
 ```bash
 spread-tracker --exchange binance --symbol BTCUSDT --once
 spread-tracker -e bybit -s ETHUSDT -d 20 -i 2
